@@ -1,0 +1,6 @@
+function myfavverse() {
+    sh /Users/gera/verse.sh
+}
+alias verse='myfavverse'
+
+#include in your bashrc file or zshrc file
