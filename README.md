@@ -1,0 +1,2 @@
+# myVerse
+bible verse script
